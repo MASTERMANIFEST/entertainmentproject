@@ -1,4 +1,4 @@
-# entertainment/party project
+# ✨  CHRISTMAS EMTERTAINMENT/PARTY ✨
 
 This is a web based application developed for entertainment/party related based website in india
 
@@ -33,42 +33,53 @@ This is a web based application developed for entertainment/party related based 
 
 
 
+![Screenshot (22)](https://user-images.githubusercontent.com/113796579/203833071-458915b4-55f8-49ae-a311-8eea69dc1a43.png)
+
 ### ABOUT -
 
 
+![Screenshot (27)](https://user-images.githubusercontent.com/113796579/203833237-40b6418c-f728-431a-b60e-78cc7eb1b6b5.png)
 
 ### SERVICES -
 
 
 
+![Screenshot (24)](https://user-images.githubusercontent.com/113796579/203833284-3791c9d3-2419-4bbc-98bf-0e3290fd273a.png)
 
 ### TICKETS -
 
+![Screenshot (25)](https://user-images.githubusercontent.com/113796579/203833405-26369591-b491-4d8b-8f00-42eaf95c7cc8.png)
 
 
 ### ORGANIZERS -
 
 
+![Screenshot (26)](https://user-images.githubusercontent.com/113796579/203833449-83cfe30b-cc45-4ed9-bb6d-4d89abc041d7.png)
 
 ### ENTERTAINMENT BOT -
 
+![Screenshot (28)](https://user-images.githubusercontent.com/113796579/203833509-0487fd87-99b4-46bd-8ed4-9827f3f04fd0.png)
 
 
 ### GALLERY -
 
 
+![Screenshot (29)](https://user-images.githubusercontent.com/113796579/203833553-fc6178e9-2ff5-4c2f-8e34-1daad8c3445b.png)
 
 ### TESTIMONIALS -
 
 
+![Screenshot (30)](https://user-images.githubusercontent.com/113796579/203833591-dfc5752c-2005-490d-8cc6-ef6ff696dea1.png)
 
 ### EVENTS -
 
 
+![Screenshot (31)](https://user-images.githubusercontent.com/113796579/203833645-8026fac6-7a93-4246-bebe-f474ac84e64f.png)
 
 ### CONTACTS -
 
 
+![Screenshot (32)](https://user-images.githubusercontent.com/113796579/203833656-89771882-1701-4b9b-96c0-aebbf0e59629.png)
 
 
 ## Tech Stack 💻
