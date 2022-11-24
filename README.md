@@ -1,4 +1,4 @@
-# ✨  CHRISTMAS EMTERTAINMENT/PARTY ✨
+# ✨  CHRISTMAS ENTERTAINMENT/PARTY ✨
 
 This is a web based application developed for entertainment/party related based website in india
 
