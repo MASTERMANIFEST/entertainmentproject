@@ -6,7 +6,7 @@ This is a web based application developed for entertainment/party related based 
 
 
 **Project Link** - https://ambitious-forest-0aaa2aa00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://www.youtube.com/watch?v=jbuqeMVz7fg
 
 ## Azure technologies used for Project
 
